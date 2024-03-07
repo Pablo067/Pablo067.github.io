@@ -1,0 +1,36 @@
+
+body {
+ background-color : #4D2E15;
+ 
+}
+
+h1 {
+	color: #AFA06E
+}
+h2{
+color: #CEBD95;	
+}
+
+p {
+	color: #CEBD95;
+	font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.imagen-portada 
+{
+	width: 200px;
+	height: 280px;
+}
+
+span.rojo
+{
+	color:red;
+}
+span.negrita
+{
+	font-weight: bold;
+}
+
+.valores-tabla{
+	padding-left: 30px;
+}
